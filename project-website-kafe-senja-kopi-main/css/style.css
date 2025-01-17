@@ -602,6 +602,7 @@ footer .social a:hover {
 
 .modal-content img {
   height: 20rem;
+  max-width: 50%;
   margin-right: 2rem;
   margin-bottom: 2rem;
 }
